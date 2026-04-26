@@ -1,1 +1,2 @@
-https://prod.liveshare.vsengsaas.visualstudio.com/join?28A7339E22383882662137F02F9AD1EA9D07
+sudo curl -L --output /usr/local/bin/cloudflared https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64
+sudo chmod +x /usr/local/bin/cloudflared
